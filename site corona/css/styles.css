@@ -1,0 +1,53 @@
+	
+	body {
+		background-image: url("../imag/fundo2.png"), url("../imag/fundo.jpg");
+		background-repeat: no-repeat, repeat;
+		background-size: 100%;
+		font-family: 'lato';
+		line-height: 1.5;
+		color: white;
+		font-family: 'Oswald', sans-serif;
+		
+	}
+	main {
+		background-color: rgba(25, 0, 0, 0.6);
+		padding: 5px 50px;
+		margin-top: 20px;
+		border-radius: 10px;
+	}
+	.logo, .manchete, .headline {
+		margin: 0;
+		text-align: center;
+	}
+	.titulo {
+		margin: 0;
+		text-align: center;
+	}
+	.conteudo {
+		margin: 0;
+		text-align: center;
+	}
+	.video {
+		margin: 0;
+		text-align: center;
+	}
+	td, th {
+		padding: .7em;
+		margin: 0;
+		text-align: center;
+	}
+	td{
+		font-weight:bold;
+	}	
+	table{
+		width: 100%;
+		margin-bottom : .5em;
+		table-layout: fixed;
+		text-align: center;
+}
+	
+	body {background-color:	rgb(128,0,0);}
+	
+	
+	
+	
